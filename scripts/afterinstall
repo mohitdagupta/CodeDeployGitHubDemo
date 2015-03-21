@@ -1,5 +1,5 @@
 #!/bin/bash
 
-chmod 777 /usr/share/nginx/html/index.html
+chmod 777 /usr/share/nginx/html/celebration/index.html
 
-chown ubuntu /usr/share/nginx/html/
+chown ubuntu /usr/share/nginx/html/celebration/
